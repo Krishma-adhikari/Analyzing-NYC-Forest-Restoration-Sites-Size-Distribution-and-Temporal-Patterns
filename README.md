@@ -41,35 +41,3 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## Usage
-
-Navigate to the notebook files to explore:
-- Data loading and preprocessing
-- Exploratory Data Analysis (EDA)
-- Size distribution analysis
-- Temporal pattern visualization
-- Statistical findings and conclusions
-
-## Key Findings
-
-*Add your key findings here after completing the analysis*
-
-## Data Sources
-
-*Document your data sources here*
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for any suggestions or improvements.
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contact
-
-For questions or inquiries, please reach out to [Krishma-adhikari](https://github.com/Krishma-adhikari).
-
----
-
-**Last Updated**: May 28, 2026
